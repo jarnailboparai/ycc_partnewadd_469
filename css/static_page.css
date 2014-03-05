@@ -9,7 +9,8 @@
 	background:#fff url(../images/header_bg.png);
 	margin:4% 2% 2%;
 	padding:3%;
-	width: 88%;
+	width: 91%;
+	word-wrap: break-word;
 }
 .staticpage_content p{
 	color:#333;
