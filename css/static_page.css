@@ -53,3 +53,6 @@
 .staticPageList li > p  {
 	display:none;
 }
+a.item{
+	width:auto !important;
+}
